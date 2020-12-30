@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--开注解扫描启-->
+    <!--<context:component-scan base-package="com.imooc.ioc"/>-->
+
+    <!--<context:annotation-config/>-->
+    <!--<bean id="bean1" class="com.imooc.ioc.demo3.bean1"/>-->
+    <!--<bean id="bean2" class="com.imooc.ioc.demo3.bean2"/>-->
+    <!--<bean id="Pruduct" class="com.imooc.ioc.demo3.Pruduct"/>-->
+    <!--配置目标类==============================-->
+    <bean id="Student" class="com.ex.evil_log.springaop.StudentImp"/>
+    <!--前置通知类型========================-->
+    <bean id="MyBeforeAdvice" class="com.ex.evil_log.springaop.MyBeforeAdvice"/>
+    <!--Spring AOP 产生代理对象========================-->
+    <bean id="StudentDaoProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+        <!--配置目标类===========ref 引用其他bean的id=============-->
+        <property name="target" ref="Student"/>
+        <!--实现的接口========================-->
+        <property name="proxyInterfaces" value="com.ex.evil_log.springaop.StudentDao"/>
+        <!--采用拦截名称========================-->
+        <property name="interceptorNames" value="MyBeforeAdvice"/>
+    </bean>
+
+
+</beans>

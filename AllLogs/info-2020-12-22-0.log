@@ -1,0 +1,69 @@
+2020-12-22 20:18:44.680 [main] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2020-12-22 20:18:45.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:45.034 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:45.034 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:45.034 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:46.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:46.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:46.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:46.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:47.017 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:47.017 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:47.017 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:47.017 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:48.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:48.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:48.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:48.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:49.009 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:49.009 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:49.009 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:49.009 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:50.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:50.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:50.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:50.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:51.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:51.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:51.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:51.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:52.010 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:52.021 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:52.021 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:52.021 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:53.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:53.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:53.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:53.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:54.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:54.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:54.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:54.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:55.013 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:55.013 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:55.013 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:55.013 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:56.008 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:56.008 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:56.008 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:56.008 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:57.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:57.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:57.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:57.019 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:58.018 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:58.018 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:58.018 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:58.018 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:18:59.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:18:59.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:18:59.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:18:59.014 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:19:00.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:19:00.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:19:00.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:19:00.003 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana
+2020-12-22 20:19:01.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - ======info
+2020-12-22 20:19:01.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!
+2020-12-22 20:19:01.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Hello,Aub!   3Q!
+2020-12-22 20:19:01.011 [pool-2-thread-1] INFO  com.ex.evil_log.util.AnnotationTask - Fruit:  apple,banana

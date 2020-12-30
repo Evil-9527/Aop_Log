@@ -1,0 +1,103 @@
+2020-12-22 20:18:44.680 [ main ] - [ INFO  ] [ o.s.s.a.ScheduledAnnotationBeanPostProcessor : 309 ] 111- No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2020-12-22 20:18:45.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:45.019 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:45.019 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:45.034 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:45.034 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:45.034 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:46.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:47.017 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:48.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:49.009 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:50.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:51.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:52.010 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:52.010 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:52.021 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:52.021 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:52.021 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:52.021 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:53.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:54.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:55.013 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:56.008 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:57.019 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:58.018 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:18:59.014 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:19:00.003 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 19 ] 111- ======info
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ WARN  ] [ com.ex.evil_log.util.AnnotationTask : 20 ] 111- ======warn
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ ERROR ] [ com.ex.evil_log.util.AnnotationTask : 21 ] 111- ======error
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 28 ] 111- Hello,Aub!
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 31 ] 111- Hello,Aub!   3Q!
+2020-12-22 20:19:01.011 [ pool-2-thread-1 ] - [ INFO  ] [ com.ex.evil_log.util.AnnotationTask : 34 ] 111- Fruit:  apple,banana

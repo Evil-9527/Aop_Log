@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd">
+
+
+    <!--目标类===================-->
+    <bean id="customer" class="com.ex.evil_log.xml_aop_jdk.CustomerImp"/>
+
+    <bean id="MyAspect" class="com.ex.evil_log.xml_aop_jdk.MyAspect"/>
+
+
+    <!--配置AOP-->
+    <aop:config>
+        <!--配置切点-->
+        <aop:pointcut id="pointcut1" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.save(..))"/>
+        <aop:pointcut id="pointcut2" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.update(..))"/>
+        <aop:pointcut id="pointcut3" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.delete(..))"/>
+        <aop:pointcut id="pointcut4" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.findall(..))"/>
+        <aop:pointcut id="pointcut5" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.findone(..))"/>
+        <aop:pointcut id="pointcut6" expression="execution(* com.ex.evil_log.xml_aop_jdk.CustomerDao.increase(..))"/>
+        <aop:aspect ref="MyAspect">
+            <!--配置切面-->
+            <aop:after-returning method="afterReturning" pointcut-ref="pointcut1" returning="res"/>
+            <!--<aop:before method="before" pointcut-ref="pointcut6"/>-->
+            <aop:after-throwing method="afterThrowable" pointcut-ref="pointcut3" throwing="e"/>
+            <aop:around method="aorund" pointcut-ref="pointcut4"/>
+            <aop:after method="after" pointcut-ref="pointcut5"/>
+        </aop:aspect>
+    </aop:config>
+
+
+</beans>
